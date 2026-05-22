@@ -1,7 +1,6 @@
 # Building an AI-Driven Investor Matching Model for VC-Backed Startups
 
 Master's thesis, International School of Management Munich, October 2025.
-Advisor: [name].
 
 ## Summary
 
